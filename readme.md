@@ -21,21 +21,22 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" />
 </a>
  <a href="https://www.tiktok.com/@chryslrsrmnt_">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" width="40" style="color:#000000;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" width="40" style="filter: invert(1);" />
   </a>
   <a href="https://facebook.com/chryslerx.0">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="30" width="40" style="color:#1877F2;" />
   </a>
   <a href="https://discord.com/chryslerx__8">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" width="40" style="color:#5865F2;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Social/discord.svg" height="30" width="40"/>
   </a>
 
 
 ---
 
-## ⚒️ Skills & Technologies
+## ⚒️ Tech Stack
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <h3>Frontend</h3>
   <a href="https://www.w3.org/html/" target="_blank" style="background: none; border: none; cursor: pointer; ">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
   </a>
@@ -54,6 +55,7 @@
   <a href="https://getbootstrap.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" width="40" />
   </a>
+  <h3>Backend & Databases</h3>
   <a href="https://www.python.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
   </a>
@@ -63,6 +65,16 @@
   <a href="https://www.mysql.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
   </a>
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/BackendDevelopment/nodejs.svg" alt="MySQL" height="40" width="40" />
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/ProgrammingLanguages/java.svg" alt="MySQL" height="40" width="40" />
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/ProgrammingLanguages/python.svg" alt="MySQL" height="40" width="40" />
+  <h3>Tools & Workflow</h3>
+     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Other/git.svgv" alt="MySQL" height="40" width="40" />
+     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Software/figma.svg" alt="MySQL" height="40" width="40" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="MySQL" height="40" width="40" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="MySQL" height="40" width="40" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="MySQL" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="MySQL" height="40" width="40" />
 </p>
 
 ---
