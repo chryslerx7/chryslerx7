@@ -21,10 +21,11 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" />
 </a>
  <a href="https://www.tiktok.com/@chryslrsrmnt_">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" width="40" style="filter: invert(1);" />
+    <img src="https://github.com/user-attachments/assets/a8d425f4-011c-4338-aa25-1061dd81693a" />
+ height="30" width="40"/>
   </a>
   <a href="https://facebook.com/chryslerx.0">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="30" width="40" style="color:#1877F2;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Social/facebook.svg" height="30" width="40" style="color:#1877F2;" />
   </a>
   <a href="https://discord.com/chryslerx__8">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Social/discord.svg" height="30" width="40"/>
@@ -35,7 +36,7 @@
 
 ## ⚒️ Tech Stack
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
   <h3>Frontend</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
