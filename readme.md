@@ -84,6 +84,8 @@ Need a website built or fixed?
 
 ## ☕ Support My Work
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=chryslerx7&label=Profile%20views&color=0e75b6&style=flat" alt="chryslerx7" /> 
+</p>
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ritesh-0309.ritesh-0309)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chryslerx7.chryslerx7)
