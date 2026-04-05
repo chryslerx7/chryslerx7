@@ -21,7 +21,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" />
 </a>
  <a href="https://www.tiktok.com/@chryslrsrmnt_">
-    <img src="https://github.com/user-attachments/assets/a8d425f4-011c-4338-aa25-1061dd81693a" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tiktok_icon.svg" />
  height="30" width="40"/>
   </a>
   <a href="https://facebook.com/chryslerx.0">
@@ -52,7 +52,7 @@
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/ProgrammingLanguages/java.svg" alt="MySQL" height="40" width="40" />
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/ProgrammingLanguages/python.svg" alt="MySQL" height="40" width="40" />
   <h3>Tools & Workflow</h3>
-     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Other/git.svgv" alt="MySQL" height="40" width="40" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="MySQL" height="40" width="40" />
      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Software/figma.svg" alt="MySQL" height="40" width="40" />
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="MySQL" height="40" width="40" />
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="MySQL" height="40" width="40" />
