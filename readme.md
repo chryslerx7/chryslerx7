@@ -16,17 +16,18 @@
 ## 🔗 Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jhed-chrysler-sarmiento-257666395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jhed-chrysler-sarmiento-257666395/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/chryslerx__0" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" />
 </a>
- <a href="https://www.tiktok.com/@chryslrsrmnt_">
+ <a href="https://www.tiktok.com/@chryslrsrmnt_" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tiktok_icon.svg" height="30" width="40"/>
   </a>
-  <a href="https://facebook.com/chryslerx.0">
+  <a href="https://facebook.com/chryslerx.0" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Social/facebook.svg" height="30" width="40" style="color:#1877F2;" />
   </a>
-  <a href="https://discord.com/chryslerx__8">
+  <a href="https://discord.com/chryslerx__8" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Social/discord.svg" height="30" width="40"/>
   </a>
 
@@ -34,7 +35,6 @@
 ---
 
 ## ⚒️ Tech Stack
-
 
   <h3 algin="left">Frontend</h3>
   <p>
