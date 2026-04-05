@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **chryslrosrmnt@gmail.com**
 
-- 🔗 GitHub: [github.com/ritesh-0309](https://github.com/chryslerx7)
+- 🔗 GitHub: [github.com/chryslerx7](https://github.com/chryslerx7)
 ---
 
 ## 🔗 Socials
@@ -35,22 +35,27 @@
 
 ## ⚒️ Tech Stack
 
-<p align="left" style="display: flex; flex-wrap: column; gap: 15px;">
-  <h3>Frontend</h3>
+
+  <h3 algin="left">Frontend</h3>
+  <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40" />
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" width="40" />
-  <h3>Backend & Databases</h3>
+    </p>
+  <h3 align="left">Backend & Databases</h3>
+  <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/BackendDevelopment/nodejs.svg" alt="MySQL" height="40" width="40" />
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/ProgrammingLanguages/java.svg" alt="MySQL" height="40" width="40" />
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/ProgrammingLanguages/python.svg" alt="MySQL" height="40" width="40" />
-  <h3>Tools & Workflow</h3>
+  </p>
+  <h3 algin="left">Tools & Workflow</h3>
+  <p>
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="MySQL" height="40" width="40" />
      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Software/figma.svg" alt="MySQL" height="40" width="40" />
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="MySQL" height="40" width="40" />
