@@ -70,7 +70,7 @@
 ## 💼 Hire Me
 
 Need a website built or fixed?  
-📌 [Hire me on Freelancer](https://jcs-portfolio-zeta.vercel.app/)
+📌 [Hire me on linkedIn](https://www.linkedin.com/in/jhed-chrysler-sarmiento-257666395/)
 
 ---
 
