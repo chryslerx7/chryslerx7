@@ -21,8 +21,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" />
 </a>
  <a href="https://www.tiktok.com/@chryslrsrmnt_">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tiktok_icon.svg" />
- height="30" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tiktok_icon.svg" height="30" width="40"/>
   </a>
   <a href="https://facebook.com/chryslerx.0">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Social/facebook.svg" height="30" width="40" style="color:#1877F2;" />
@@ -36,7 +35,7 @@
 
 ## ⚒️ Tech Stack
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
+<p align="left" style="display: flex; flex-wrap: column; gap: 15px;">
   <h3>Frontend</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
