@@ -37,34 +37,16 @@
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
   <h3>Frontend</h3>
-  <a href="https://www.w3.org/html/" target="_blank" style="background: none; border: none; cursor: pointer; ">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="40" width="40" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" width="40" />
-  </a>
   <h3>Backend & Databases</h3>
-  <a href="https://www.python.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
-  </a>
-  <a href="https://www.php.net/" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
-  </a>
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/BackendDevelopment/nodejs.svg" alt="MySQL" height="40" width="40" />
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/ProgrammingLanguages/java.svg" alt="MySQL" height="40" width="40" />
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/ProgrammingLanguages/python.svg" alt="MySQL" height="40" width="40" />
