@@ -1,21 +1,89 @@
-# 💫 About Me:
-A passionate Information Technology student with 3 years of development experience as a programmer. I'm looking for an opportunity to apply my knowledge and skills as a programmer, to assist and support your team in achieving company success. As well as gain new knowledge and skills. With the help or your company I know that I will learn new things not only in programming but all the capabilities that an employee should have. Displayed strong positive attitude towards colleagues. Participated in activities while producing significant outcomes. Gained programming experience as an Full Stack Dev for a capstone project and as a freelance web developer for a startup company.
 
+<h1 align="center">Hi 👋, I'm Jhed Chrysler O. Sarmiento</h1>
+<h4 align="center">A passionate Information Technology student with 3 years of development experience as a programmer. I'm looking for an opportunity to apply my knowledge and skills as a programmer, to assist and support your team in achieving company success. As well as gain new knowledge and skills. With the help or your company I know that I will learn new things not only in programming but all the capabilities that an employee should have. Displayed strong positive attitude towards colleagues. Participated in activities while producing significant outcomes. Gained programming experience as an Full Stack Dev for a capstone project and as a freelance web developer for a startup company.</h4>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/748852686060912721) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chryslerx.0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chryslerx__0) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/chrysler_8) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@chryslrsrmnt_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/chryslerjay__30) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jhd_srmnt08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chryslrosrmnt@gmail.com) 
+- 🌐 Portfolio: [https://jcs-portfolio-zeta.vercel.app/](https://jcs-portfolio-zeta.vercel.app/)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=plastic&logo=windi-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=plastic&logo=invision&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=plastic&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=plastic&logo=battle.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chryslerx7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chryslerx7&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chryslerx7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 👯 My Area of Interest's are **Web development, UI/UX Designing and Development, Full Stack Development, Tiktok**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chryslerx7&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+- 📹 I run a TIktok called [Chryslr💻](https://www.tiktok.com/@chryslrsrmnt_)
+
+- 📫 Reach me at **chryslrosrmnt@gmail.com**
+
+- 🔗 GitHub: [github.com/ritesh-0309](https://github.com/chryslerx7)
+---
+
+## 🔗 Socials
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jhed-chrysler-sarmiento-257666395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/chryslerx__0" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" />
+</a>
+ <a href="https://www.tiktok.com/@chryslrsrmnt_">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" width="40" style="color:#000000;" />
+  </a>
+  <a href="https://facebook.com/chryslerx.0">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="30" width="40" style="color:#1877F2;" />
+  </a>
+  <a href="https://discord.com/chryslerx__8">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" width="40" style="color:#5865F2;" />
+  </a>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chryslerx7&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚒️ Skills & Technologies
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <a href="https://www.w3.org/html/" target="_blank" style="background: none; border: none; cursor: pointer; ">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="40" width="40" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" width="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+## 💼 Hire Me
+
+Need a website built or fixed?  
+📌 [Hire me on Freelancer](https://jcs-portfolio-zeta.vercel.app/)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
+</picture>
+
+---
+
+## ☕ Support My Work
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ritesh-0309.ritesh-0309)
