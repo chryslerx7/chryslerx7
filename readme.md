@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jhed Chrysler O. Sarmiento</h1>
 <h4 align="center">A passionate Information Technology student with 3 years of development experience as a programmer. I'm looking for an opportunity to apply my knowledge and skills as a programmer, to assist and support your team in achieving company success. As well as gain new knowledge and skills. With the help or your company I know that I will learn new things not only in programming but all the capabilities that an employee should have. Displayed strong positive attitude towards colleagues. Participated in activities while producing significant outcomes. Gained programming experience as an Full Stack Dev for a capstone project and as a freelance web developer for a startup company.</h4>
 
-- 🌐 Portfolio: [https://jcs-portfolio-zeta.vercel.app/](https://jcs-portfolio-zeta.vercel.app/)
+- 🌐 Portfolio: [https://chryslr-dev.vercel.app/](https://chryslr-dev.vercel.app/)
 
 - 👯 My Area of Interest's are **Web development, UI/UX Designing and Development, Full Stack Development, Tiktok**
 
